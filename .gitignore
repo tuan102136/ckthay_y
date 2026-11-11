@@ -1,6 +1,6 @@
 .vscode/*
-smarthome-web/node_modules/
-smarthome-web/dist/
+ck_thayy/smarthome-web/node_modules/
+ck_thayy/smarthome-web/dist/
 
-smarthome-esp32/sensors/**/secrets.h
-smarthome-esp32/actuators/**/secrets.h
+ck_thayy/smarthome-esp32/sensors/**/secrets.h
+ck_thayy/smarthome-esp32/actuators/**/secrets.h
