@@ -9,6 +9,7 @@
 - Supabase Dashboard: https://supabase.com/dashboard/project/nxecjrkjmtsguoftmgaq
 - Supabase API URL: `https://nxecjrkjmtsguoftmgaq.supabase.co`
 - Báo cáo tổng hợp: [BAO_CAO_TONG_HOP.md](BAO_CAO_TONG_HOP.md)
+- Bản Word có thể tải về và mở bằng Microsoft Word: [BAO_CAO_TONG_HOP.docx](BAO_CAO_TONG_HOP.docx)
 
 API URL là địa chỉ để ứng dụng gọi dịch vụ, không phải trang web để mở trực tiếp. Mở URL gốc trong trình duyệt có thể trả về `requested path is invalid`; đó không có nghĩa là API hỏng.
 
