@@ -8,6 +8,7 @@
 - Mô phỏng Wokwi: [ESP32 Smart Home](https://wokwi.com/projects/480414337988797441)
 - Supabase Dashboard: https://supabase.com/dashboard/project/nxecjrkjmtsguoftmgaq
 - Supabase API URL: `https://nxecjrkjmtsguoftmgaq.supabase.co`
+- Báo cáo tổng hợp: [BAO_CAO_TONG_HOP.md](BAO_CAO_TONG_HOP.md)
 
 API URL là địa chỉ để ứng dụng gọi dịch vụ, không phải trang web để mở trực tiếp. Mở URL gốc trong trình duyệt có thể trả về `requested path is invalid`; đó không có nghĩa là API hỏng.
 
